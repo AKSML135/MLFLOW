@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sriva/OneDrive/Desktop/MLflow/mlruns/748106504647167897/32aa1293b8324708bd28f4317f95002b/artifacts
+end_time: 1710675951237
+entry_point_name: ''
+experiment_id: '748106504647167897'
+lifecycle_stage: active
+run_id: 32aa1293b8324708bd28f4317f95002b
+run_name: dapper-mole-723
+run_uuid: 32aa1293b8324708bd28f4317f95002b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710675951181
+status: 4
+tags: []
+user_id: sriva

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sriva/OneDrive/Desktop/MLflow/mlruns/786323779084616574/80faf547782348179a757acd94f19454/artifacts
+end_time: 1710691141693
+entry_point_name: ''
+experiment_id: '786323779084616574'
+lifecycle_stage: active
+run_id: 80faf547782348179a757acd94f19454
+run_name: predict_flower_17-03-24
+run_uuid: 80faf547782348179a757acd94f19454
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710691131547
+status: 3
+tags: []
+user_id: sriva

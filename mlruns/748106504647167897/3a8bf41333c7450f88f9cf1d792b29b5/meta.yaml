@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sriva/OneDrive/Desktop/MLflow/mlruns/748106504647167897/3a8bf41333c7450f88f9cf1d792b29b5/artifacts
+end_time: 1710675693193
+entry_point_name: ''
+experiment_id: '748106504647167897'
+lifecycle_stage: active
+run_id: 3a8bf41333c7450f88f9cf1d792b29b5
+run_name: brawny-skunk-871
+run_uuid: 3a8bf41333c7450f88f9cf1d792b29b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710675693130
+status: 4
+tags: []
+user_id: sriva

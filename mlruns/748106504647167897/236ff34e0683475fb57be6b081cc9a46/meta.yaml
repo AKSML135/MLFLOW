@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sriva/OneDrive/Desktop/MLflow/mlruns/748106504647167897/236ff34e0683475fb57be6b081cc9a46/artifacts
+end_time: 1710676021572
+entry_point_name: ''
+experiment_id: '748106504647167897'
+lifecycle_stage: active
+run_id: 236ff34e0683475fb57be6b081cc9a46
+run_name: bouncy-flea-900
+run_uuid: 236ff34e0683475fb57be6b081cc9a46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710676001914
+status: 3
+tags: []
+user_id: sriva

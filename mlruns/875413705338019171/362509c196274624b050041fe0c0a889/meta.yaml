@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/sriva/OneDrive/Desktop/MLflow/mlruns/875413705338019171/362509c196274624b050041fe0c0a889/artifacts
+end_time: 1710676929323
+entry_point_name: ''
+experiment_id: '875413705338019171'
+lifecycle_stage: active
+run_id: 362509c196274624b050041fe0c0a889
+run_name: term_depo_best
+run_uuid: 362509c196274624b050041fe0c0a889
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710676926916
+status: 3
+tags: []
+user_id: sriva
